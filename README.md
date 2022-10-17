@@ -50,7 +50,7 @@ For an effective operation, the system can be implemented provided the following
 - Operating System: Windows 10.
 
 
-# Our About
+# About Us
 Name: Nayan Sarkar
 
 ID No: 20201126010
